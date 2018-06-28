@@ -1,0 +1,23 @@
+table.timetable_sub {
+	width:100%;
+	margin:0 auto;
+}
+.timetable_sub thead {
+    background: #004284;
+}
+.timetable_sub th {
+    background: #212121;
+    color: #fff !important;
+    text-transform: capitalize;
+    font-size: 13px;
+    border-right: 1px solid #ded2d2;
+}
+.timetable_sub th, .timetable_sub td {
+    text-align: center;
+    padding: 7px;
+    font-size: 14px;
+    color: #212121;
+}
+.timetable_sub td {
+	border:1px solid #CDCDCD;
+}
